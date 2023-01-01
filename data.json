@@ -1,0 +1,801 @@
+[
+  {
+    "_id": "63808a3a9f5372f8ec317728",
+    "dui": "D36576",
+    "name": "Gaming Teclado mecánico Fantech MK853 Max Power BLUE o RED SWITCH RGB ORIGINAL. Teclas de doble disparo 2 Interruptor mecánico: Interruptor azul",
+    "slug": "Gaming-Teclado-mecánico-Fantech-MK853",
+    "marca": "Srenketh",
+    "description": "ssample description",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1669884456/Gaming%20Teclado%20mec%C3%A1nico%20Fantech%20MK853%20Max%20Power%20BLUE%20o%20RED%20SWITCH%20RGB%20ORIGINAL.%20Teclas%20de%20doble%20disparo%202%20Interruptor%20mec%C3%A1nico:%20Interruptor%20azul/zw3l7ridfip3kqzmr69u.webp"
+    ],
+    "quantity": 55,
+    "price": 24.99,
+    "discount": 10,
+    "category": "Teclados",
+    "raw": [],
+    "store": ["636b704e6ae22594386fca46"],
+    "ratings": [
+      {
+        "userId": "62f3e67f62eae3ef10686d1f",
+        "userName": "juancho",
+        "userImages": "https://res.cloudinary.com/douvery/image/upload/v1666430091/Pamper/71NB1Z5wJ5S._AC_UX425__jelzeg.jpg",
+        "userComment": "El mejor producto.",
+        "rating": 5,
+        "user_imagesClients": [],
+        "_id": "638e241d58520656d3a648d7"
+      }
+    ],
+    "productDetails": [],
+    "__v": 6,
+    "uploaded_by": "Douvery,   Fri, 02 Dec 2022 08:47:46 GMT",
+    "variations": []
+  },
+  {
+    "_id": "63a5db7a1593b767b4ece590",
+    "dui": "D36576",
+    "name": "Ask Again Yes",
+    "slug": "ask-again-yes",
+    "marca": "",
+    "description": "Cool",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1671729503/Ask%20Again%20Yes/bb0uqik8etmjo46rzj3h.webp"
+    ],
+    "quantity": 15,
+    "price": 25,
+    "discount": 10,
+    "category": "Books",
+    "uploaded_by": "Douvery-Douvery,   Tue, 23 Dec 2022 17:50:02 GMT",
+    "store": ["637f24cc2250d328d6aa0a79"],
+    "ratings": [
+      {
+        "userId": "635ce018b44e075c48acde0f",
+        "userName": "Germys",
+        "userImages": "https://res.cloudinary.com/douvery/image/upload/v1665359439/LOGO/qximkmklnyztkc7s5xgx.png",
+        "userComment": "",
+        "rating": 5,
+        "user_imagesClients": [],
+        "_id": "63a6d94afdd1a53a4dd0ca31"
+      }
+    ],
+    "productDetails": [],
+    "variations": [],
+    "__v": 1,
+    "raw": []
+  },
+  {
+    "_id": "62efa06f2f5bee7d73e8f86c",
+    "name": "Cómo ganar amigos e influir sobre las personas  (Spanish Edition)",
+    "marca": "Dale Carnegie",
+    "description": "lind",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666289697/C%C3%B3mo%20ganar%20amigos%20e%20influir%20sobre%20las%20personas%20%20%28Spanish%20Edition%29/bjh7qczhmufacnv0ktfr.webp"
+    ],
+    "quantity": 22,
+    "price": 12,
+    "category": "Books",
+    "ratings": [
+      {
+        "userId": "635ce018b44e075c48acde0f",
+        "userName": "Germys",
+        "userImages": "https://res.cloudinary.com/douvery/image/upload/v1665359439/LOGO/qximkmklnyztkc7s5xgx.png",
+        "userComment": "Genial",
+        "rating": 4,
+        "user_imagesClients": [],
+        "_id": "63a5ecd24b9f784955e46e87"
+      }
+    ],
+    "__v": 25,
+    "slug": "como-ganar-amigos-e-influir-sobre-las-personas-spanish-edition",
+    "discount": 0,
+    "dui": "D501748",
+    "productDetails": [],
+    "raw": [],
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:12:56 GMT",
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "63a5dae71593b767b4ece58f",
+    "dui": "D92174",
+    "name": "Grey",
+    "slug": "Grey",
+    "marca": "",
+    "description": "Cool",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1671729192/Grey/pbow46gnemrwpxeszvgu.webp"
+    ],
+    "quantity": 15,
+    "price": 45,
+    "discount": 10,
+    "category": "Books",
+    "uploaded_by": "Douvery-Douvery,   Tue, 23 Dec 2022 17:50:02 GMT",
+    "store": ["637f24cc2250d328d6aa0a79"],
+    "ratings": [
+      {
+        "userId": "635ce018b44e075c48acde0f",
+        "userName": "Germys",
+        "userImages": "https://res.cloudinary.com/douvery/image/upload/v1665359439/LOGO/qximkmklnyztkc7s5xgx.png",
+        "userComment": "",
+        "rating": 3.5,
+        "user_imagesClients": [],
+        "_id": "63a6d9ca2f9d626397240da5"
+      }
+    ],
+    "productDetails": [],
+    "__v": 125,
+    "variations": [],
+    "raw": []
+  },
+  {
+    "_id": "62efa22f2f5bee7d73e8f91c",
+    "name": "Como ser un imán para las personas: 62 Estrategias simples para construir relaciones fuertes e impactar positivamente en la vida de todas las personas ... Que Cambiarán Tu Vida) (Spanish Edition)",
+    "marca": "Marc Reklau",
+    "description": "sss",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666289753/Como%20ser%20un%20im%C3%A1n%20para%20las%20personas:%2062%20Estrategias%20simples%20para%20construir%20relaciones%20fuertes%20e%20impactar%20positivamente%20en%20la%20vida%20de%20todas%20las%20personas%20...%20Que%20Cambiar%C3%A1n%20Tu%20Vida%29%20%28Spanish%20Edition%29/bpy4wjrfhjinj4zkuqm2.webp"
+    ],
+    "quantity": 10,
+    "price": 13,
+    "category": "Books",
+    "ratings": [
+      {
+        "userId": "635ce018b44e075c48acde0f",
+        "userName": "Germys",
+        "userImages": "https://res.cloudinary.com/douvery/image/upload/v1665359439/LOGO/qximkmklnyztkc7s5xgx.png",
+        "userComment": "",
+        "rating": 3,
+        "user_imagesClients": [],
+        "_id": "63a9a5d237cac19391325a85"
+      }
+    ],
+    "__v": 11,
+    "slug": "como-ser-un-iman-para-las-personas-62-estrategias-simples-para-construir-relaciones-fuertes-e-impactar-positivamente-en-la-vida-de-todas-las-personas-que-cambiaran-tu-vida-spanish-edition-dollar13",
+    "discount": 0,
+    "dui": "D153417",
+    "productDetails": [],
+    "raw": [],
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:14:36 GMT",
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "63a5e75b1593b767b4ece595",
+    "dui": "D19638",
+    "name": "What Every Body Is Saying: An Ex-FBI Agent's Guide to Speed-Reading People",
+    "slug": "what-every-body-is-saying",
+    "marca": "",
+    "description": "Cool",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1671730656/What%20Every%20Body%20Is%20Saying/awvwhrvka2uioiljmecq.webp"
+    ],
+    "quantity": 15,
+    "price": 13,
+    "discount": 5,
+    "category": "Books",
+    "uploaded_by": "Douvery-Douvery,   Tue, 23 Dec 2022 17:50:02 GMT",
+    "store": ["637f24cc2250d328d6aa0a79"],
+    "ratings": [
+      {
+        "userId": "635ce018b44e075c48acde0f",
+        "userName": "Germys",
+        "userImages": "https://res.cloudinary.com/douvery/image/upload/v1665359439/LOGO/qximkmklnyztkc7s5xgx.png",
+        "userComment": "",
+        "rating": 3,
+        "user_imagesClients": [],
+        "_id": "63a6d929d947205bbde89e42"
+      }
+    ],
+    "productDetails": [],
+    "variations": [],
+    "__v": 1,
+    "raw": []
+  },
+  {
+    "_id": "63a5dc1d1593b767b4ece591",
+    "dui": "D836441",
+    "name": "On Earth we-re Briefly ",
+    "slug": "on-earth-we-re-briefly",
+    "marca": "",
+    "description": "Cool",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1671728021/On%20Earth%20we%C2%B4re%20Briefly/xcp4xuohu7rkxcc5bsno.webp"
+    ],
+    "quantity": 15,
+    "price": 50,
+    "discount": 5,
+    "category": "Books",
+    "uploaded_by": "Douvery-Douvery,   Tue, 23 Dec 2022 17:50:02 GMT",
+    "store": ["637f24cc2250d328d6aa0a79"],
+    "ratings": [
+      {
+        "userId": "635ce018b44e075c48acde0f",
+        "userName": "Germys",
+        "userImages": "https://res.cloudinary.com/douvery/image/upload/v1665359439/LOGO/qximkmklnyztkc7s5xgx.png",
+        "userComment": "",
+        "rating": 2.5,
+        "user_imagesClients": [],
+        "_id": "63a6d991e9d040c2979e0205"
+      }
+    ],
+    "productDetails": [],
+    "variations": [],
+    "__v": 1,
+    "raw": []
+  },
+  {
+    "_id": "63a5e39b1593b767b4ece593",
+    "dui": "D99658",
+    "name": "Call an Audible",
+    "slug": "calL-an-audible",
+    "marca": "",
+    "description": "Cool",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1671729811/Call%20an%20/wodasrjiw4g3mcs4qwvr.webp"
+    ],
+    "quantity": 15,
+    "price": 13,
+    "discount": 5,
+    "category": "Books",
+    "uploaded_by": "Douvery-Douvery,   Tue, 23 Dec 2022 17:50:02 GMT",
+    "store": ["637f24cc2250d328d6aa0a79"],
+    "ratings": [
+      {
+        "userId": "635ce018b44e075c48acde0f",
+        "userName": "Germys",
+        "userImages": "https://res.cloudinary.com/douvery/image/upload/v1665359439/LOGO/qximkmklnyztkc7s5xgx.png",
+        "userComment": "",
+        "rating": 2.5,
+        "user_imagesClients": [],
+        "_id": "63a6d9db570b479ecb9a0545"
+      }
+    ],
+    "productDetails": [],
+    "variations": [],
+    "__v": 1,
+    "raw": []
+  },
+  {
+    "_id": "63a5e5751593b767b4ece594",
+    "dui": "D92538",
+    "name": "Dad Jokes: The Good. The Bad. The Terrible.",
+    "slug": "dad-Jokes-the-good",
+    "marca": "",
+    "description": "Cool",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1671730179/Dad%20Jokes:%20The%20Good.%20The%20Bad.%20The%20Terrible./liqejo0iscpm5xtbvayd.webp"
+    ],
+    "quantity": 15,
+    "price": 13,
+    "discount": 5,
+    "category": "Books",
+    "uploaded_by": "Douvery-Douvery,   Tue, 23 Dec 2022 17:50:02 GMT",
+    "store": ["637f24cc2250d328d6aa0a79"],
+    "ratings": [
+      {
+        "userId": "635ce018b44e075c48acde0f",
+        "userName": "Germys",
+        "userImages": "https://res.cloudinary.com/douvery/image/upload/v1665359439/LOGO/qximkmklnyztkc7s5xgx.png",
+        "userComment": "gg",
+        "rating": 2,
+        "user_imagesClients": [],
+        "_id": "63a6d931b3ed3358fb2602b7"
+      }
+    ],
+    "productDetails": [],
+    "variations": [],
+    "__v": 1,
+    "raw": []
+  },
+  {
+    "_id": "62bae9bd7b73f70be7ef19de",
+    "name": "Samsung Galaxy S22",
+    "description": "Video súper estable de 8 K: Grabar videos que rivalizan con lo épica que es tu vida con una impresionante grabación 8K, la resolución de grabación más alta disponible en un smartphone; el video capturado es sin esfuerzo gracias a la estabilización de video de enfoque automático en Galaxy S22 Ultra*\nFotografía nocturna + modo de portátil: Captura la noche con imágenes y videos claros y brillantes, sin importar la iluminación con el modo nocturno; el modo Retrato detecta automáticamente y se ajusta a lo que quieras frontal y central, haciendo que todas tus fotos sean dignas de un marco\nResolución de fotos de 108 MP + pantalla brillante: Captura detalles premium con resolución de 108 MP: la más alta disponible en un teléfono celular; tu contenido favorito se verá aún más épico en nuestra pantalla más brillante con Vision Booster\nContraste de color adaptable: ¿Transmitiendo sobre la marcha, trabajando desde tu patio o viendo atracones hasta altas horas de la noche? La pantalla adaptable Galaxy S22 Ultra optimiza automáticamente el color y el brillo, exteriores e interiores\nBatería de larga duración y carga rápida: Potencia cada desplazamiento, clic, toque y transmite todo el día y luego algunos con una batería inteligente y duradera**; vuelve a entrar en acción en un momento previo con carga súper rápida de 45 W***\nS Pen integrada: Nuevo teléfono, nuevo S Pen; ahora puedes dar rienda suelta a tu creatividad en Galaxy S22 Ultra con un S Pen integrado; edita fotos y videos con precisión precisa, y hazlo todo con esa sensación de lápiz a papel\nDiseño y artesanía de alta calidad: Con un elegante y llamativo diseño de vidrio de metal y vidrio, estamos estableciendo un estándar para teléfonos inteligentes; con nuestro marco de aluminio más fuerte y lo último en Gorilla Glass, este teléfono es ligero y duradero para ayudar a soportar arañazos y abolladuras",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666290770/samsung%20galaxy%20s22/chzioq3p34ksagujqmfe.webp"
+    ],
+    "quantity": 20,
+    "price": 1049,
+    "category": "Mobiles",
+    "__v": 56,
+    "marca": "Douvery",
+    "ratings": [],
+    "discount": 12,
+    "slug": "Samsung-galaxy-s22",
+    "uploaded_by": "Douvery,   25/12/2022, 7:10:37 p. m.",
+    "dui": "D700305",
+    "raw": ["El mejor celular con 4gb de ram , "],
+    "productDetails": [
+      { "pd_backgroundColor": "#000000", "_id": "637bbaf2360dd1f13a109bd8" }
+    ],
+    "store": ["637f24cc2250d328d6aa0a79"],
+    "variations": []
+  },
+  {
+    "_id": "62bc3b443764fac95052c8e0",
+    "name": "AirPods Pro",
+    "marca": "Apple",
+    "description": "To purchase with monthly pricing, add this item to your bag and choose to check out with Apple Card Monthly Installments.◊",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666289078/AirPods%20Pro/qy9gkb7pwrrvya3jsu9r.webp"
+    ],
+    "quantity": 49,
+    "price": 249,
+    "category": "Electronics",
+    "__v": 22,
+    "ratings": [],
+    "discount": 10,
+    "slug": "AirPods-Pro",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:13:10 GMT",
+    "dui": "D589022",
+    "raw": [
+      "airpods pro nuevos , nuevo producto de apple , apple ,  los mejores airpods de apple , apple es mejor que samsung? , los airpods mas barato "
+    ],
+    "productDetails": [],
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "62c8722c44a2d55bc51801e9",
+    "name": "Logitech G 29 Driving Force Racing - Pedales de rueda y piso, retroalimentación de fuerza real,",
+    "marca": "Logitech",
+    "description": "s",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666290326/Logitech%20G%2029%20Driving%20Force%20Racing%20-%20Pedales%20de%20rueda%20y%20piso%2C%20retroalimentaci%C3%B3n%20de%20fuerza%20real%2C/jzyw7x2mx6nrdswbae9k.webp"
+    ],
+    "quantity": 4,
+    "price": 365,
+    "category": "Mobiles",
+    "ratings": [],
+    "__v": 20,
+    "discount": 10,
+    "slug": "Logitech-G-29-Driving-Force-Racin -Pedales-de-rueda-y-piso,-retroalimentación-de-fuerza-real,",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:13:17 GMT",
+    "dui": "D810341",
+    "productDetails": [],
+    "raw": [],
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "62c9fe09b3251ed237b91836",
+    "name": "AirPods de Apple con funda de carga (cableado).4.8 de 5 estrellas",
+    "marca": "Apple",
+    "description": "Buen productooooo",
+    "quantity": 10,
+    "price": 50,
+    "category": "Electronic",
+    "ratings": [],
+    "__v": 24,
+    "discount": 10,
+    "slug": "AirPods-de-Apple-con-funda-de-carga-(cableado).4.8-de-5-estrellas",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:13:23 GMT",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666288965/AirPods%20de%20Apple%20con%20funda%20de%20carga%20%28cableado%29.4.8%20de%205%20estrellas/axjudgoaetcx8vtzd3ce.webp"
+    ],
+    "dui": "D791472",
+    "raw": ["audifonos airpods , "],
+    "productDetails": [],
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "62cf0a2a3d485377c4dea94f",
+    "name": "Reloj Apple Serie 5 (GPS + Celular), 40mm, Acero inoxidable con bucle milanés de acero inoxidable.",
+    "marca": "Apple",
+    "description": "lindo",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666290413/Reloj%20Apple%20Serie%205%20%28GPS%20%2B%20Celular%29%2C%2040mm%2C%20Acero%20inoxidable%20con%20bucle%20milan%C3%A9s%20de%20acero%20inoxidable./qp2bqdzphcdjq8ubs0ed.webp"
+    ],
+    "quantity": 10,
+    "price": 405,
+    "category": "Electronics",
+    "__v": 15,
+    "ratings": [],
+    "discount": 0,
+    "dui": "D505948",
+    "productDetails": [],
+    "raw": ["s"],
+    "slug": "Reloj-Apple-Serie-5-(GPS-+-Celular)-,-40m-,-Acero-inoxidable-con-bucle-milanés-de-acero-inoxidable.",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:13:29 GMT",
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "62d1ae2c71fa9bd3015a9f88",
+    "name": "STAR WARS Men's Epic Darth Vader T-Shirt",
+    "marca": "Douvery",
+    "description": "Transpórtate a una galaxia muy lejana con una nueva y genial tienda de camisetas de Star Wars Camisetas gráficas de Star Wars con Darth Vader, Luke Sky Walker, Yoda, Chewbacca, la princesa Leia y todos tus personajes favoritos de Star Wars.",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666290861/STAR%20WARS%20Men%27s%20Epic%20Darth%20Vader%20T-Shirt/ne31ibizsvl2pgmr7ul4.webp"
+    ],
+    "quantity": 20,
+    "price": 20,
+    "category": "Moda",
+    "ratings": [],
+    "__v": 72,
+    "slug": "star-wars-mens-epic-darth-vaderhttp://localhost:3000/product.dui/star-wars-mens-epic-darth-vader-t-shirt&62d1ae2c71fa9bd3015a9f88-t-shirt",
+    "discount": 0,
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:13:42 GMT",
+    "dui": "D512564",
+    "productDetails": [],
+    "raw": ["ggggssssss"],
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "62dfd63f4a296f3edbcd7f43",
+    "name": "AOC - Monitor para videojuegos, curvado, sin marco, FHD 1ms VA",
+    "marca": "Aoc",
+    "description": "lindou",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666292363/AOC%20-%20Monitor%20para%20videojuegos%2C%20curvado%2C%20sin%20marco%2C%20FHD%201ms%20VA/lnageza9xw1ccmosnz26.webp"
+    ],
+    "quantity": 12,
+    "price": 260,
+    "category": "Electronics",
+    "ratings": [],
+    "__v": 5,
+    "discount": 0,
+    "dui": "",
+    "productDetails": [],
+    "raw": [],
+    "slug": "aoc-monitor-para-videojuegos-curvado-sin-marco-fhd-1ms-va",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:13:49 GMT",
+    "store": [],
+    "variations": [
+      {
+        "nameVariation": "Colores",
+        "productVariation": [""],
+        "_id": "63a1f17722ddea492b9cfa28"
+      }
+    ]
+  },
+  {
+    "_id": "62e17f0949ff9a5c1c17e363",
+    "name": "Fila Vertex Mochila para tablet y portátil, Rojo, L, Vertex - Mochila para tablet y portátil",
+    "marca": "Fila",
+    "description": "Lindou",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666289992/Fila%20Vertex%20Mochila%20para%20tablet%20y%20port%C3%A1til%2C%20Rojo%2C%20L%2C%20Vertex%20-%20Mochila%20para%20tablet%20y%20port%C3%A1til/mwbf7lfmhml2l5cozqay.webp"
+    ],
+    "quantity": 11,
+    "price": 20,
+    "category": "Moda",
+    "ratings": [],
+    "__v": 9,
+    "slug": "fila-vertex-mochila-para-tablet-y-portatil-rojo-l-vertex-mochila-para-tablet-y-portatil",
+    "discount": 0,
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:13:55 GMT",
+    "dui": "D335671",
+    "productDetails": [],
+    "raw": [],
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "62e1801c49ff9a5c1c17e386",
+    "name": "Armario con puertas de cristal",
+    "marca": "Walker Edison",
+    "description": "Lindou",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666289576/Armario%20con%20puertas%20de%20cristal/egknw35zlpaejwufd0gt.webp"
+    ],
+    "quantity": 20,
+    "price": 145,
+    "category": "Hogar",
+    "ratings": [],
+    "__v": 11,
+    "discount": 2,
+    "slug": "Armario-con-puertas-de-cristal",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:14:05 GMT",
+    "dui": "D222555",
+    "productDetails": [],
+    "raw": [],
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "62ef9e1f2f5bee7d73e8f76f",
+    "name": "Estante de baño plástico",
+    "marca": "Douvery",
+    "description": "lista",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666289852/Estante%20de%20ba%C3%B1o%20pl%C3%A1stico/tl3wjisyer5pp4yfr6sx.webp"
+    ],
+    "quantity": 13,
+    "price": 23,
+    "category": "Hogar",
+    "ratings": [],
+    "__v": 4,
+    "slug": "estante-de-bano-plastico",
+    "discount": 0,
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:14:19 GMT",
+    "dui": "D137019",
+    "productDetails": [],
+    "raw": [],
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "62ef9ef82f5bee7d73e8f78f",
+    "name": "Under Armour Charged Pursuit 3 - Tenis de correr para hombre",
+    "marca": "Under Armour",
+    "description": "lindou",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666290931/Under%20Armour%20Charged%20Pursuit%203%20-%20Tenis%20de%20correr%20para%20hombre/f5hvekoyhofm1f2o4j3u.webp"
+    ],
+    "quantity": 11,
+    "price": 23,
+    "category": "Zapatos",
+    "ratings": [],
+    "__v": 19,
+    "slug": "under-armour-charged-pursuit-3-tenis-de-correr-para-hombre",
+    "discount": 0,
+    "dui": "D425524",
+    "productDetails": [],
+    "raw": [],
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:14:28 GMT",
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "62efa3782f5bee7d73e8f94f",
+    "name": "Apple iPhone 12 Pro Max, 256GB, Pacific Blue - Unlocked",
+    "marca": "Apple",
+    "description": "lindou",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666289390/Apple%20iPhone%2012%20Pro%20Max%2C%20256GB%2C%20Pacific%20Blue%20-%20Unlocked/mpkyuneuyygtrs2sl6ys.webp"
+    ],
+    "quantity": 10,
+    "price": 999,
+    "category": "Electronics",
+    "ratings": [],
+    "__v": 28,
+    "discount": 0,
+    "dui": "D260082",
+    "slug": "Apple-iPhone-12-Pro-Max,-256GB-,-Pacific-Blue-Unlocked",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:14:44 GMT",
+    "productDetails": [],
+    "raw": ["iphone 12"],
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "6321b55689d7280d449c377f",
+    "name": "AMD Procesador de escritorio desbloqueado Ryzen 7 5800X de 8 núcleos y 16 hilos",
+    "marca": "AMD",
+    "description": "Corta",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666289106/AMD%20Procesador%20de%20escritorio%20desbloqueado%20Ryzen%207%205800X%20de%208%20n%C3%BAcleos%20y%2016%20hilos/wqhaevblqjq2msuar3ed.webp"
+    ],
+    "quantity": 5,
+    "price": 256,
+    "category": "Electronics",
+    "ratings": [],
+    "__v": 5,
+    "discount": 15,
+    "slug": "AMD-Procesador-de-escritorio-desbloqueado-Ryzen-7-5800X-de-8-núcleo-y-16-hilos",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:14:52 GMT",
+    "dui": "D575160",
+    "productDetails": [],
+    "raw": [],
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "6321b63a89d7280d449c37a0",
+    "name": "Apple MacBook Pro 2021 (16 pulgadas, chip Apple M1 Pro con CPU de 10 núcleos y GPU de 16 núcleos, 16 GB de RAM, 1 TB SSD), color Silver.",
+    "marca": "Apple",
+    "description": "Corta",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666289487/Apple%20MacBook%20Pro%202021%20%2816%20pulgadas%2C%20chip%20Apple%20M1%20Pro%20con%20CPU%20de%2010%20n%C3%BAcleos%20y%20GPU%20de%2016%20n%C3%BAcleos%2C%2016%20GB%20de%20RAM%2C%201%20TB%20SSD%29%2C%20color%20Silver./phnvywxzaeiavrcsfgls.webp"
+    ],
+    "quantity": 50,
+    "price": 2659,
+    "category": "Electronics",
+    "ratings": [],
+    "__v": 4,
+    "discount": 0,
+    "dui": "D784859",
+    "productDetails": [],
+    "raw": [],
+    "slug": "apple-macbook-pro-2021-16-pulgadas-chip-apple-m1-pro-con-cpu-de-10-nucleos-y-gpu-de-16-nucleos-16-gb-de-ram-1-tb-ssd-color-silver",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:15:03 GMT",
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "6328b1d3dc5660522c341a39",
+    "name": "iPhone 14 Pro Max",
+    "marca": "Apple",
+    "description": "New apple",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666290088/iPhone%2014%20Pro%20Max/hsskqod9szag9ohfwv6k.webp"
+    ],
+    "quantity": 5,
+    "price": 1099,
+    "category": "Mobiles",
+    "ratings": [],
+    "__v": 5,
+    "discount": 5,
+    "productDetails": [],
+    "raw": ["1"],
+    "slug": "iPhone-14-Pro-Max",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:15:08 GMT",
+    "dui": "D300316",
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "632fd716e4b46ae048460648",
+    "name": "Acer Swift 3 - Portátil delgado y ligero RGB | Procesador AMD Ryzen 7 5700U Octa-Core | 8GB LPDDR4X | SSD NVMe de 512GB | WiFi 6",
+    "marca": "Acer",
+    "description": "jwjw",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666288478/Acer%20Swift%203%20-%20Port%C3%A1til%20delgado%20y%20ligero%20RGB%20%7C%20Procesador%20AMD%20Ryzen%207%205700U%20Octa-Core%20%7C%208GB%20LPDDR4X%20%7C%20SSD%20NVMe%20de%20512GB%20%7C%20WiFi%206%20/yocsxf3dzayndsubtrx1.webp"
+    ],
+    "quantity": 12,
+    "price": 940,
+    "category": "Electronics",
+    "ratings": [],
+    "__v": 8,
+    "discount": 2,
+    "dui": "D607188",
+    "productDetails": [],
+    "raw": [],
+    "slug": "Acer-Swift-3 - Portátil-delgado-y-ligero-RGB-|-Procesador-AMD-Ryzen-7-5700U-Octa-Core-|-8GB-LPDDR4X -|-SSD-NVMe-de-512GB-|-WiFi-6",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:15:14 GMT",
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "6332447b0debcd4239488d88",
+    "name": "Televisor TCL 32\"",
+    "marca": "TCL",
+    "description": "Lindfou",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666288818/Televisor%20TCL%2032%22/zqeld2mribvbieq6wgkr.webp"
+    ],
+    "quantity": 150,
+    "price": 164,
+    "category": "Electronics",
+    "ratings": [],
+    "__v": 54,
+    "discount": 10,
+    "slug": "Televisor-TCL-32-\"",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:15:31 GMT",
+    "dui": "D775489",
+    "productDetails": [],
+    "raw": ["Televisor TCL 32"],
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "635d665672a3071cd92f0c4d",
+    "name": "Mochila fila rojo buen material",
+    "marca": "Fila",
+    "description": "Prox...",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1666979039/Mochila%20fila%20rojo%20buen%20material/AnyConv.com__Dise%C3%B1o_sin_t%C3%ADtulo_behrk5.webp"
+    ],
+    "quantity": 10,
+    "price": 10.56,
+    "discount": 12,
+    "category": "Moda",
+    "uploaded_by": "Douvery,   Sat, 17 Dec 2022 12:15:37 GMT",
+    "ratings": [],
+    "__v": 19,
+    "slug": "mochila-fila-rojo-buen-material",
+    "dui": "D773200",
+    "productDetails": [],
+    "raw": ["Uno"],
+    "store": [],
+    "variations": []
+  },
+  {
+    "_id": "6397414f020d42a1a7097ab3",
+    "dui": "D53948",
+    "name": "Zapatos deportivos sin cordones para mujer, para correr",
+    "slug": "zapatos-deportivos-sin-cordones-para-mujer-para-correr",
+    "marca": "Srenketh",
+    "description": "Cool",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1670770529/Zapatos%20deportivos%20sin%20cordones%20para%20mujer/jwlozkxjhz68beungat4.webp"
+    ],
+    "quantity": 15,
+    "price": 105,
+    "discount": 80,
+    "category": "Tenis deportivos",
+    "uploaded_by": "Douvery-Douvery,   Tue, 20 Dec 2022 17:22:17 GMT",
+    "raw": ["El mejor calzado"],
+    "store": ["637f24cc2250d328d6aa0a79"],
+    "ratings": [],
+    "productDetails": [],
+    "__v": 17,
+    "variations": [
+      {
+        "nameVariation": "Colores",
+        "productVariation": ["D953922", "D53948"],
+        "_id": "63a1f17f22ddea492b9cfa2f"
+      }
+    ]
+  },
+  {
+    "_id": "6397419f1a32ccaeb9ad59ab",
+    "dui": "D953922",
+    "name": "Zapatos deportivos sin cordones para mujer, para correr Amarillo.",
+    "slug": "zapatos-deportivos-sin-cordones-para-mujer-para-correr-caminar",
+    "marca": "Srenketh",
+    "description": "Cool",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1670770532/Zapatos%20deportivos%20sin%20cordones%20para%20mujer/gmlviinothhzeky94ru5.webp"
+    ],
+    "quantity": 15,
+    "price": 105,
+    "discount": 50,
+    "category": "Tenis deportivos",
+    "uploaded_by": "Douvery-Douvery,   Tue, 20 Dec 2022 17:30:02 GMT",
+    "raw": ["El mejor calzado"],
+    "store": ["637f24cc2250d328d6aa0a79"],
+    "ratings": [],
+    "productDetails": [],
+    "__v": 124,
+    "variations": [
+      {
+        "nameVariation": "Colores\n",
+        "productVariation": ["D953922", "D53948"],
+        "_id": "63a1f17f22ddea492b9cfa2f"
+      },
+      {
+        "nameVariation": "Material",
+        "productVariation": ["D953922", "D53948"],
+        "_id": "63a1f204ea1c21dfe238fc9a"
+      }
+    ]
+  },
+  {
+    "_id": "63a5e0f11593b767b4ece592",
+    "dui": "D75482",
+    "name": "I'll Never Fall",
+    "slug": "i-ll-never-fall",
+    "marca": "",
+    "description": "Cool",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1671729309/I%27ll%20Never%20Fall/uaqvyiy9wcjuf8ax0flw.webp"
+    ],
+    "quantity": 15,
+    "price": 20,
+    "discount": 15,
+    "category": "Books",
+    "uploaded_by": "Douvery-Douvery,   Mon, 26 Dec 2022 13:43:13 GMT",
+    "store": ["637f24cc2250d328d6aa0a79"],
+    "ratings": [],
+    "productDetails": [],
+    "variations": [],
+    "__v": 2,
+    "raw": []
+  },
+  {
+    "_id": "63a5e81b1593b767b4ece596",
+    "dui": "D15838",
+    "name": "Las 48 leyes del poder",
+    "slug": "las-48-leyes-del-poder",
+    "marca": "",
+    "description": "Cool",
+    "images": [
+      "https://res.cloudinary.com/douvery/image/upload/v1671730809/Las%2048%20leyes%20del%20poder/bfex1u8f15gfoiktqrgt.webp"
+    ],
+    "quantity": 15,
+    "price": 11,
+    "discount": 5,
+    "category": "Books",
+    "uploaded_by": "Douvery-Douvery,   Mon, 26 Dec 2022 13:49:54 GMT",
+    "store": ["637f24cc2250d328d6aa0a79"],
+    "ratings": [],
+    "productDetails": [],
+    "variations": [],
+    "__v": 1,
+    "raw": []
+  }
+]
